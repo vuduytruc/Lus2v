@@ -1,0 +1,9 @@
+[No push force]
+
+Commit message:
+  date: 001-2018/07/23 (Tue)
+  in:   x-2018/07/31 (Tue)
+  out:  o-2018/08/03 (Tue)
+
+[Commit for previous date]
+
