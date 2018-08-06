@@ -3,9 +3,9 @@
 
 
 Commit message:
-  date: 001-2018/07/23 (Tue)
+  date: 001-2018/07/23 (Mon)
   in:     x-2018/07/31 (Tue)
-  out:    o-2018/08/03 (Tue)
+  out:    o-2018/08/03 (Fri)
 
 
 [Commit for previous date]
@@ -16,6 +16,7 @@ Dates' content:
 001: 2108-07-23 (Mon)
    |-- x: 2018-07-31 (Tue)
    |-- o: 2018-08-03 (Fri)
+   |-- o: 2018-08-05 (Sun)
 
 002: 2108-08-23 (Thu)
    |-- x: 2018-08-26 (Sun)
